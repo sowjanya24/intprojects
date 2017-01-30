@@ -1,2 +1,2 @@
 # intprojects
-Projects to help prepare for developer interview
+This section is for .NET Development Questions
